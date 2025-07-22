@@ -7,19 +7,19 @@ This folder contains my solutions for **Chapter 2** exercises from the book and 
 
 ## ✅ Sample Code Outputs
 
-**Volume_weight.c**  
+**🔹 Volume_weight.c**  
 Dimensions: 8x12x10  
 Volume (cubic inches): 960  
 Dimensional Weight (pounds): 6  
 
-**Reading_Input**  
+**Reading_Input.c**  
 Enter the height: 8  
 Enter the length: 12  
 Enter the width: 10  
 Volume: 960  
 Weight: 6  
 
-**Fahrenheit_Cesius**  
+**Fahrenheit_Celsius.c**  
 Enter the Fahrenheit: 212  
 Celsius : 100.0  
 
@@ -29,7 +29,10 @@ Celsius : 100.0
   Hello,World
 
 **PrintingPattern.c**  
-![PrintingPatter](PrintingPatter.png)
+![PrintingPatter](PrintingPatter.png)   
+
+**Volume_Of_Sphere.c**   
+Volume of sphere : 4186.7
   
 Write a program to print "Hello, world!"
 
