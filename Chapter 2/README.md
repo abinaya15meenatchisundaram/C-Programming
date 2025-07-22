@@ -69,9 +69,12 @@ Equation (((((3*x)+2)*x-5)*x+7)*x-6) when value of x = 2 is 52
 
 --
 
-**Dollar_Small_Num.c**   
-Dollar
-
+**Dollar_Bills.c**   
+Enter a dollar amount: 93   
+$20 Bills: 4   
+$10 Bills: 1   
+$5 Bills: 0   
+$1 Bills: 3    
 --
 
 **Loan_Balance.c**   
