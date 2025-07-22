@@ -45,6 +45,40 @@ Volume of sphere : 4186.7
 
 --
 
+**Volume_Of_Sphere2.c**    
+Enter the radius in meters: 10   
+Volume of Sphere of radius 10 is 4186.7    
+
+--
+
+**Dollar_Tax_Amount.c**   
+Enter the amount: 100   
+Tax Amount: 105.00   
+
+--
+
+**Polynomial.c**   
+Enter X:2   
+3x^5+2x^4-5x^3-x^2+7x-6 is 92  
+
+--
+
+**Polynomial2.c**   
+Enter value of x:2   
+Equation (((((3*x)+2)*x-5)*x+7)*x-6) when value of x = 2 is 52  
+
+--
+
+**Dollar_Small_Num.c**   
+Dollar
+
+--
+
+**Loan_Balance.c**   
+Balance
+
+--
+
 
 Write a program to print "Hello, world!"
 
